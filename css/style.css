@@ -158,6 +158,7 @@ after pszeudo-elemei */
   bottom: 0;
   transform: rotate(-45deg);
 }
+/*comment 
 
 /* 19: a menu__hamburger--htx és az is-active osztályhoz egyszerre tartozó
  elemeken belül lévő span elemek before vagy after pszeudo-elemei */
